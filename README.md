@@ -14,13 +14,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -30,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
