@@ -15,6 +15,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
@@ -33,6 +34,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -101,6 +103,7 @@
 | [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
