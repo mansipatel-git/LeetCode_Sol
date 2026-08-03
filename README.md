@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
@@ -90,5 +91,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
