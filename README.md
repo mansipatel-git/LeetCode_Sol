@@ -131,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
