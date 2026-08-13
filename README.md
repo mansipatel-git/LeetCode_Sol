@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -47,6 +48,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -113,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
