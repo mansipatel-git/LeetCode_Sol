@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -111,6 +112,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -144,4 +146,8 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0176-second-highest-salary/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
