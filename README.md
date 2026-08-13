@@ -71,6 +71,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
@@ -153,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0011-container-with-most-water/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
