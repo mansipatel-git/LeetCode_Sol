@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0191-number-of-1-bits/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -67,6 +69,7 @@
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0020-valid-parentheses/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
