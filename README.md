@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
@@ -34,6 +35,7 @@
 | [0015-3sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -61,6 +63,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
