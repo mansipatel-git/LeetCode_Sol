@@ -106,6 +106,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -133,6 +134,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
@@ -179,4 +181,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
