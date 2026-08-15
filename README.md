@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
@@ -140,6 +141,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
