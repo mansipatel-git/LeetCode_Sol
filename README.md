@@ -44,6 +44,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -113,6 +114,7 @@
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
