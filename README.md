@@ -100,6 +100,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -114,6 +115,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -130,6 +132,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -138,6 +141,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0098-validate-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
