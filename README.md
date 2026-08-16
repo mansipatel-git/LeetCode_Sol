@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0191-number-of-1-bits/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -163,6 +165,7 @@
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0202-happy-number/) | Easy |
@@ -218,6 +221,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +234,8 @@
 | [0101-symmetric-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
