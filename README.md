@@ -57,6 +57,7 @@
 | [0015-3sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -110,6 +111,7 @@
 | [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0383-ransom-note/) | Easy |
@@ -122,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
