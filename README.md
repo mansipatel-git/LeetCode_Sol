@@ -52,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -127,6 +128,7 @@
 | [0112-path-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -281,6 +283,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -308,8 +311,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
