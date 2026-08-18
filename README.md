@@ -20,6 +20,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0202-happy-number/) | Easy |
@@ -30,6 +31,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0342-power-of-four](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
@@ -258,6 +260,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0092-reverse-linked-list-ii/) | Medium |
