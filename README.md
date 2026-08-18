@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0191-number-of-1-bits/) | Easy |
@@ -48,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
@@ -109,6 +111,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -143,6 +146,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -157,6 +161,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
