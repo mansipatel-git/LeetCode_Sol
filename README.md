@@ -54,6 +54,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
@@ -75,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
