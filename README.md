@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0202-happy-number/) | Easy |
 | [0342-power-of-four](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0342-power-of-four/) | Easy |
@@ -171,6 +172,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
@@ -187,6 +189,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0125-valid-palindrome/) | Easy |
