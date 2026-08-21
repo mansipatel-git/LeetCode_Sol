@@ -137,6 +137,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,7 @@
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +322,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,4 +331,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
