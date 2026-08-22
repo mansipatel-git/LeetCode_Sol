@@ -30,6 +30,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
