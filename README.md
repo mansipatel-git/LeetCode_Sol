@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3731-find-missing-elements/) | Easy |
@@ -81,6 +84,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -89,6 +93,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Dynamic Programming
@@ -337,6 +342,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,4 +355,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
