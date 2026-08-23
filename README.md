@@ -150,6 +150,7 @@
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0547-number-of-provinces](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0841-keys-and-rooms/) | Medium |
@@ -316,6 +317,7 @@
 | [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0547-number-of-provinces](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0841-keys-and-rooms/) | Medium |
@@ -345,6 +347,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Quickselect
@@ -360,6 +363,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
