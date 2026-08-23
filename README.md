@@ -152,6 +152,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0684-redundant-connection/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
