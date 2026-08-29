@@ -61,6 +61,7 @@
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -82,6 +83,7 @@
 | [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -196,6 +198,7 @@
 | [0169-majority-element](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0290-word-pattern/) | Easy |
