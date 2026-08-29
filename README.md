@@ -227,6 +227,7 @@
 | [0205-isomorphic-strings](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -254,6 +255,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0392-is-subsequence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
