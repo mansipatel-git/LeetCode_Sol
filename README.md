@@ -312,6 +312,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0148-sort-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
