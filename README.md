@@ -74,6 +74,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0486-predict-the-winner/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0877-stone-game](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -215,6 +216,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -283,6 +285,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
