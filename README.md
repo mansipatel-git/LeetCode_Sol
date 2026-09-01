@@ -79,6 +79,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/mansipatel-git/LeetCode_Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
